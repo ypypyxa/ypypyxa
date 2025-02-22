@@ -22,6 +22,7 @@
 
 ## 📬 Как связаться?
 - 📩 Telegram: [@ypypyxa](https://t.me/ypypyxa)
+- 📧 **Email**: [dev@ypypyxa.ru](mailto:dev@ypypyxa.ru)
 
 ---
 
