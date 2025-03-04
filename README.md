@@ -25,8 +25,8 @@
 - Категории и теги для задач
 - Различные представления (список, доска, календарь)
 - Геймификация (очки, уровни, челленджи)
-- Авторизация через Google и Firebase
-- Сохранение данных в **Strapi + Firebase**
+- Авторизация через Email+Pass | Google | Apple
+- Сохранение данных в **CSM + Postgre**
 
 Использую **MVVM, Jetpack Compose, Retrofit, Navigation Component, Coroutines + Flow**.
 
