@@ -38,7 +38,3 @@
 - 📩 Telegram: [@ypypyxa](https://t.me/ypypyxa)
 - 📧 **Email**: [dev@ypypyxa.ru](mailto:dev@ypypyxa.ru)
 
----
-
-🔹 *Не боюсь сложных задач — они делают меня сильнее.*
-
