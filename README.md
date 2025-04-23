@@ -11,7 +11,7 @@
 - **Сетевое взаимодействие**: HTTP, REST API, Retrofit, Gson
 - **Базы данных**: Room, SQLite, SQL, Shared Preferences
 - **Асинхронность**: Coroutines, RxJava, потоки JVM
-- **Контроль версий**: Git, GitHub, Agile, Scrum
+- **Контроль версий**: Git, GitHub, Agile, Scrum, CI/CD
 - **Инструменты**: Glide, Dagger, Koin, LocalNotifications, BottomSheet, AlertDialog, MediaPlayer
 - **Прочее**: Управление разрешениями, отладка и логирование
 
