@@ -7,11 +7,11 @@
 ## 🔧 Мой стек технологий
 - **Языки**: Kotlin
 - **Android**: Android Studio, Android SDK, ADB, XML, ConstraintLayout, RelativeLayout, RecyclerView, Fragment, Activity
-- **Архитектуры**: MVC, MVP, MVVM, Clean Architecture
+- **Архитектуры**: MVC, MVP, MVVM, Clean Architecture, Многомодульность
 - **Сетевое взаимодействие**: HTTP, REST API, Retrofit, Gson
 - **Базы данных**: Room, SQLite, SQL, Shared Preferences
 - **Асинхронность**: Coroutines, RxJava, потоки JVM
-- **Инструменты**: Git, GitHub, Glide, Dagger, Koin
+- **Инструменты**: Git, GitHub, Glide, Dagger, Koin, LocalNotifications
 - **Прочее**: Agile, Scrum, MediaPlayer, управление разрешениями, диалоги и всплывающие окна, отладка и логирование
 
 ## 🚀 Текущий проект
