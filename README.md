@@ -6,7 +6,7 @@
 
 ## 🔧 Мой стек технологий
 - **Языки**: Kotlin
-- **Android**: Android Studio, Android SDK, ADB, XML, ConstraintLayout, RelativeLayout, RecyclerView, Fragment, Activity
+- **Android**: Android Studio, Android SDK, ADB, XML, ConstraintLayout, RelativeLayout, RecyclerView, Fragment, Activity, Menu, NavGraph
 - **Архитектуры**: MVC, MVP, MVVM, Clean Architecture, Многомодульность
 - **Сетевое взаимодействие**: HTTP, REST API, Retrofit, Gson
 - **Базы данных**: Room, SQLite, SQL, Shared Preferences
