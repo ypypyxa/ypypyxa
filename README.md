@@ -27,7 +27,7 @@
 - Различные представления (список, доска, календарь)
 - Геймификация (очки, уровни, челленджи)
 - Авторизация через Email+Pass | Google | Apple
-- Сохранение данных в **CSM + PostgreSQL**
+- Сохранение данных в **CMS + PostgreSQL**
 
 Использую **MVVM, Jetpack Compose, Retrofit, Navigation Component, Coroutines + Flow**.
 
