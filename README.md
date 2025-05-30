@@ -29,7 +29,7 @@
 - Авторизация через Email+Pass | Google | Apple
 - Сохранение данных в **CMS + PostgreSQL**
 
-Использую **MVVM, Jetpack Compose, Retrofit, Navigation Component, Coroutines + Flow**.
+Использую **MVI, Jetpack Compose, Firebase, Retrofit, Navigation Component, Coroutines + Flow**.
 
 
 ## 📊 Статистика профиля
