@@ -32,10 +32,10 @@
 Использую **MVI, Jetpack Compose, Firebase, Retrofit, Navigation Component, Coroutines + Flow**.
 
 
-## 📊 Статистика профиля
+## Статистика профиля
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ypypyxa&show_icons=true&theme=dark)
 
-## 📬 Как связаться?
-- 📩 Telegram: [@ypypyxa](https://t.me/ypypyxa)
-- 📧 **Email**: [dev@ypypyxa.ru](mailto:dev@ypypyxa.ru)
+## Как связаться?
+- Telegram: [@ypypyxa](https://t.me/ypypyxa)
+- Email: [dev@ypypyxa.ru](mailto:dev@ypypyxa.ru)
 
