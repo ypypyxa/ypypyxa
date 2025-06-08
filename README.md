@@ -7,7 +7,7 @@
 ## Мой стек технологий
 - **Языки**: Kotlin
 - **Android**: Android Studio, Android SDK, ADB,
-- **UI**: XML, Compose, Fragment, Activity, Menu, NavGraph
+- **UI**: XML, Compose, Menu, NavGraph
 - **Архитектуры**: MVC, MVP, MVVM, Clean Architecture, Многомодульность
 - **Сетевое взаимодействие**: HTTP, REST API, Retrofit, Gson
 - **Базы данных**: Room, SQLite, SQL, Shared Preferences
