@@ -16,23 +16,6 @@
 - **Инструменты**: Glide, Dagger, Koin, LocalNotifications, BottomSheet, AlertDialog, MediaPlayer
 - **Прочее**: Управление разрешениями, отладка и логирование
 
-## Текущий проект
-
-Сейчас участвую в проекте по созданию таск-менеджера (web + android).\
-Приложение поможет пользователям **управлять задачами, получать напоминания, планировать дела и отслеживать продуктивность**.
-
-### Основные возможности:
-- Создание, редактирование и удаление задач
-- Дедлайны, напоминания и приоритеты
-- Категории и теги для задач
-- Различные представления (список, доска, календарь)
-- Геймификация (очки, уровни, челленджи)
-- Авторизация через Email+Pass | Google | Apple
-- Сохранение данных в **CMS + PostgreSQL**
-
-Использую **MVI, Jetpack Compose, Firebase, Retrofit, Navigation Component, Coroutines + Flow**.
-
-
 ## Статистика профиля
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ypypyxa&show_icons=true&theme=dark)
 
