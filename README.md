@@ -17,7 +17,7 @@
 - **Прочее**: Управление разрешениями, отладка и логирование
 
 ## Статистика профиля
-![GitHub Stats]([https://ypypyxa.vercel.app/api?username=ypypyxa&show_icons=true&theme=dark](https://github-readme-stats-ypypyxa.vercel.app/api?username=ypypyxa&show_icons=true&theme=dark))
+![GitHub Stats](https://github-readme-stats-ypypyxa.vercel.app/api?username=ypypyxa&show_icons=true&theme=dark)
 
 ## Как связаться?
 - Telegram: [@ypypyxa](https://t.me/ypypyxa)
